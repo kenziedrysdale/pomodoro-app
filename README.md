@@ -2,6 +2,7 @@
 
 A timer for the [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) implemented using react with bootstrap for buttons and alerts.
 
+![](https://raw.githubusercontent.com/kenziedrysdale/pomodoro-app/master/screenshot.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Use npm install and follow the instructions below to run the app.
 
