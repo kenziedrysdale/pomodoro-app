@@ -69,7 +69,7 @@ class App extends Component {
     this.setState({
         time:(this.state.length - (Date.now() - this.state.start))
       })
-    if(this.state.time <= 25*1000*60-2000){
+    if(this.state.time <= 0){
       this.setState({
         time:0,
         alertOn:true})
